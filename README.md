@@ -1,6 +1,22 @@
 Syllabus
 
+Subject: Computer Science
+
+Level: Intermediate
+
 Module 1: Data Warehouse
+
+Prerequisites:
+
+ • Learners should be familiar with SQL and RDBBMS
+
+ Language: 
+ Türkçe, English
+
+Associated skills:
+SQL, Relational Databases, Materialized View, Business Intelligence, Data Warehousing, Data Modeling, Star Schema, Snowflake Schema 
+
+ --------------------------------------------------------------------------------------------
 
 
 Part I Data Warehouse - Fundamentals
